@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni Coakley</h1>
-<h3 align="center">A Full-stack Bahamian Developer</h3>
+<h3 align="center">A Full-stack Bahamian-Canadian Developer</h3>
 
 - 🔭 I’m currently working on **a 3D Architecture Website**
 
