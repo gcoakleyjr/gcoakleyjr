@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giovanni Coakley</h1>
 <h3 align="center">A Full-stack Bahamian-Canadian Developer</h3>
 
-- 🔭 I’m currently working on **a 3D Architecture Website**
+- 🔭 I’m currently working on **an Ecommerce Website**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://gioco.netlify.app/](https://gioco.netlify.app/)
 
