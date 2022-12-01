@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Giovanni Coakley</h1>
 <h3 align="center">A Full-stack Bahamian-Canadian Developer</h3>
 
-- 🔭 I’m currently working on **an Ecommerce Website**
+- 🔭 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 
 
-- 👨‍💻 All of my projects are available at [https://gioco.netlify.app/](https://gioco.netlify.app/)
+- 👨‍💻 
 
 - 📫 How to reach me **gcoakley.jr@gmail.com**
 
-- 📄 Know about my experiences [https://gioco.netlify.app/img/GiovanniCoakley_CV2022.pdf](https://gioco.netlify.app/img/GiovanniCoakley_CV2022.pdf)
+- 📄 
 
-- ⚡ Fun fact **Casually ran into Jack Black walking around in Italy and stuck up conversation.**
+- ⚡ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
